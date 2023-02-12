@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - lane1
+  - lane2
+  - lane3
+  - empty
+  - Obstacle
+  - healthOrbs
+  - abilityOrbs
+  - abilityChild
+  - healthChild
+  - lane1Obstacle
+  - lane2Obstacle
+  - lane3Obstacle
+  - lane1ObstacleChild
+  - lane2ObstacleChild
+  - lane3ObstacleChild
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
